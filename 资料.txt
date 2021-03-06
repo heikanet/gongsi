@@ -1,0 +1,17 @@
+登录账户：root
+登录密码：jhy1991
+
+资料路径：
+
+vpn用户本
+/root/vpn.txt
+
+服务器密码本:
+/root/server-pass.txt
+
+网站密码本:
+/root/webpass.txt
+
+环境一键配置脚本：
+/root/shell/install.sh
+
